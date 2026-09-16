@@ -28,7 +28,7 @@ This paper synthesizes the architectural mechanisms of **MVDream**—which learn
 
 The complete essay including architectural diagrams, visual comparisons, and mathematical formulations is available directly in this repository:
 
-📄 **[Download the Full Report (PDF)](./ESSAY_cisotto_martina.pdf)**
+📄 **[Download the Full Report (PDF)](https://github.com/martina-cisotto/MVDream.pdf)**
 
 ---
 
