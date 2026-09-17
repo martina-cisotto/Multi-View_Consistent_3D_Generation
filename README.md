@@ -1,6 +1,6 @@
 # Multi-View Consistent 3D Generation: MVDream
 
-An academic survey and comparative analysis exploring multi-view diffusion models for consistent 3D asset synthesis, addressing classical 2D-lifting pitfalls like the multi-face Janus problem and content drift.
+An academic survey exploring multi-view diffusion models for consistent 3D asset synthesis, addressing classical 2D-lifting pitfalls like the multi-face Janus problem and content drift.
 
 ---
 
